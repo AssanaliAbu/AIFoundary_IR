@@ -36,7 +36,7 @@ upper_black = np.array([180, 255, 30])
 # Define the range of white
 lower_white = np.array([0, 0, 200])
 upper_white = np.array([180, 30, 255])
-
+##lol
 
 ## ROIs of needed regions
 left_name = 256, 639, 268, 40
