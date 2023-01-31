@@ -1,0 +1,6 @@
+# pip install -r requirements.txt
+
+# base ----------------------------------------
+opencv-python
+pytesseract
+numpy
