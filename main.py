@@ -173,7 +173,7 @@ while True:
 
     # Extract the ROI
     roi = frame[y:y + h, x:x + w]
-    # Preprocessing
+    # Preprocess
     roi = preprocess_frame(roi)
     # Use OCR to extract the text from the ROI
     text_time = pytesseract.image_to_string(roi)
