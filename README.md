@@ -1,4 +1,4 @@
-# Video_Information_Retrrieval
+# Video_Information_Retrieval
 Text Information retrieval from a fight match video using Tesseract-OCR
 
 From a given fight match video, the program can retrieve the names of participating fighters, the round in a period of time, colors of fighters, and approximate match ending time. 
